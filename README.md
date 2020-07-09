@@ -1,3 +1,6 @@
+This is a bookmarking site implemented in react-redux using google book APIs. This app helps you search for books from google book api and let you save those book for reading it later. This project uses react-bootstrap for designing UI components and follows best practices in the industry by referring to https://github.com/rwieruch/favesound-redux & https://github.com/andrewngu/sound-redux code repositories.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
