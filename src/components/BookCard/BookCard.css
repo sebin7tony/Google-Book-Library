@@ -1,0 +1,10 @@
+.card-img-top {
+  padding: 25px;
+}
+
+.bookCard {
+  padding: 20px;
+  margin: 20px;
+  background-color: #f5f5f5 !important;
+  min-height: 800px !important;
+}
